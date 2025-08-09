@@ -6,7 +6,7 @@
 💡 *Passionate about AI, Web Development, Data Science & Human–Computer Interaction*  
 📍 *Hyderabad, India*  
 
-![Banner](file:///C:/Users/Arshiya%20Ruksar/Downloads/ChatGPT%20Image%20Aug%209,%202025,%2011_28_39%20AM.png) <!-- Replace with your banner -->
+![Banner](banner.png) <!-- Replace with your banner -->
 
 </div>
 
