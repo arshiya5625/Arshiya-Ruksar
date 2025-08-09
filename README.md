@@ -25,19 +25,19 @@
 </div>
 
 ---
-
 ## 🏆 Certifications & Achievements
 <div align="center">
 
-| **Certification / Workshop** | **Organization** |
-|--------------------------------|------------------|
-| Introduction to Data Science | Infosys |
-| Machine learning  Workshop | - | Nextera unitech |
-| Data Science Workshop | IIT Hyderabad |
-| Power BI Workshop | - | IIT Hyderabad |
-| Hackathon – Medical Passport | - |sridevi womens engineering college |
+| **Certification / Workshop**       | **Organization**                        |
+|-------------------------------------|------------------------------------------|
+| Introduction to Data Science        | Infosys                                  |
+| Machine Learning Workshop           | Nextera Unitech                          |
+| Data Science Workshop               | IIT Hyderabad                            |
+| Power BI Workshop                   | IIT Hyderabad                            |
+| Hackathon – Medical Passport        | Sridevi Women’s Engineering College      |
 
 </div>
+
 
 ---
 
