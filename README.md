@@ -32,10 +32,10 @@
 | **Certification / Workshop** | **Organization** |
 |--------------------------------|------------------|
 | Introduction to Data Science | Infosys |
-| Machine learning  Workshop | - |Nextera unitech|
+| Machine learning  Workshop | - | Nextera unitech |
 | Data Science Workshop | IIT Hyderabad |
 | Power BI Workshop | - | IIT Hyderabad |
-| Hackathon – Medical Passport | - |sridevi womens engineering college|
+| Hackathon – Medical Passport | - |sridevi womens engineering college |
 
 </div>
 
