@@ -32,20 +32,10 @@
 | **Certification / Workshop** | **Organization** |
 |--------------------------------|------------------|
 | Introduction to Data Science | Infosys |
-| AI Tools Workshop | - |
+| Machine learning  Workshop | - |Nextera unitech
 | Data Science Workshop | IIT Hyderabad |
-| Power BI Workshop | - |
-| Hackathon – Medical Passport | - |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Arshiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshiya5625&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiya5625&layout=compact&theme=radical)  
+| Power BI Workshop | - | IIT Hyderabad
+| Hackathon – Medical Passport | - |sridevi womens engineering college
 
 </div>
 
